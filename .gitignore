@@ -1,7 +1,13 @@
 ## Ignore everything...
 *
 
-## Except preferences
-!.gitignore
+## Except preferences...
 !Preferences.sublime-settings
+!Package Control.sublime-settings
 
+## Even if they are in a subfolder (but still not the backup folder)...
+!*/
+backup/
+
+## Except the readme...
+!/readme.md

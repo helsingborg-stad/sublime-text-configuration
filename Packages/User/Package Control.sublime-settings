@@ -1,0 +1,50 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Base16 Color Schemes",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"DocBlockr",
+		"Ecmascript Syntax",
+		"Emmet",
+		"Find++",
+		"Git Conflict Resolver",
+		"HTML Mustache",
+		"Inc-Dec-Value",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Completions",
+		"JSX",
+		"Laravel Blade Highlighter",
+		"Less2Css",
+		"Markdown HTML Preview",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"PHP Companion",
+		"PHP Getters and Setters",
+		"PHP-Twig",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"Terminal",
+		"Theme - Spacegray",
+		"TypeScript",
+		"WordPress"
+	]
+}
