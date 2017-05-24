@@ -1,7 +1,9 @@
-Sublime Text 3 setup - Kristoffer Svanmark
-==========================================
+Sublime Text 3 configuration
+============================
 
-This is my personal setup for Sublime Text 3. It's focused on web development with HTML, CSS, JavaScript and PHP.
+This is the Sublime Text 3 setup that we are using. It's focused on web development with HTML, CSS, JavaScript and PHP.
+
+This repo is a fork of https://bitbucket.org/Stoffe1/sublime-setup/
 
 ## Installation
 
